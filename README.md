@@ -1,6 +1,5 @@
-- 👋 Hi, I am Shan aka (Shanmuga Subramanian).  (Ramanean)
-- 👀 My interests in DevOps, CyberSecurity, Azure and Cloud Technologies.And I am a Space Enthusiast who keeps track of latest happenings in Space
-- 🌱 Have been credited by NASA for finding Vikram lander debris on Moon using LRO pictures
-- 💞️ I’m looking to collaborate on 
-- 📫 [a @RamaneanTech] (https://twitter.com/RamaneanTech) or [a @Ramanean] (https://twitter.com/Ramanean\).
-=
+- 👋 Hi, I am Shan aka Shanmuga Subramanian (Ramanean) | DevOps Engineer/Architect
+- 👀 My interests in DevOps, CyberSecurity, Azure and Cloud Technologies & I am a Space Enthusiast! 
+- 🌱 Have been credited by <a href='https://www.nasa.gov/image-feature/goddard/2019/vikram-lander-found'>NASA for finding Vikram lander debris on Moon</a> <Br>
+        <ul><li>Link: https://www.nytimes.com/2019/12/02/science/india-moon-mission-vikram-lander-found.html  </li></ul>
+- 📫  Contact me on Twitter <a href='https://twitter.com/RamaneanTech'>@RamaneanTech</a> or <a href='https://twitter.com/Ramanean'>@Ramanean</a>

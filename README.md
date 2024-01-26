@@ -1,4 +1,4 @@
-- 👋 Hi, I am Shanmuga Subramanian (Ramanean) | DevOps & Solution Architect
+- 👋 Hi, I am Shanmuga Subramanian (Shan) | DevOps & Solution Architect
 - 👀 My interests are DevOps, CyberSecurity, Azure, AWS and QA Automation & I am a Space Enthusiast! 
 - 🌱 Have been credited by <a href='https://www.nasa.gov/image-feature/goddard/2019/vikram-lander-found'>NASA for finding Vikram lander debris on Moon</a> <Br>
         <ul><li>Link: https://www.nytimes.com/2019/12/02/science/india-moon-mission-vikram-lander-found.html  </li></ul>
